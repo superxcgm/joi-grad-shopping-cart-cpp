@@ -44,7 +44,7 @@ cmake .. && cmake --build .
 
 ```console
 cd build
-./ctest .
+./joi_grad_shopping_cart_cpp_test
 ```
 
 ## Run the Sample Application
